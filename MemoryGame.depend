@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1495032250 source:e:\memorygame\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Menu.h"
+	"Play.h"
+
+1492677525 e:\memorygame\usesdl.h
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+
+1495032381 source:e:\memorygame\menu.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Menu.h"
+
+1494561544 e:\memorygame\menu.h
+	<iostream>
+	<cstring>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1495032329 e:\memorygame\play.h
+	<iostream>
+	<cstring>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1495032312 source:e:\memorygame\play.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Play.h"
+
+1494523528 source:e:\memorygame\resource.rc
+
